@@ -24,7 +24,7 @@ url=https://github.com/peter-iakovlev/MtProtoKit.git
 	url = https://github.com/peter-iakovlev/Postbox.git
 [submodule "submodules/SSignalKit"]
 	path = submodules/SSignalKit
-	url = https://github.com/:peter-iakovlev/Signals.git
+	url = https://github.com/peter-iakovlev/Signals.git
 [submodule "submodules/TelegramCore"]
 	path = submodules/TelegramCore
 	url = https://github.com/peter-iakovlev/TelegramCore.git
